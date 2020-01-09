@@ -1,5 +1,5 @@
 // Created the name variable
-const name = "Ahmed Hussein"
+const name = 'Ahmed Hussein'
 console.log(`Hello, my name is ${name}`)
 /*
     1) Created the number variable 7
